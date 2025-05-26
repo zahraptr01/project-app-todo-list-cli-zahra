@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "title": "Assignment",
+    "description": "Golang 2",
+    "completed": true
+  }
+]
